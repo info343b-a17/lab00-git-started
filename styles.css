@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+h3 {
+    color: red;
+}
+
+dt {
+    font-weight: bold;
+}
+
+dt:hover {
+    color: blue;
+    font-size: 150%;
+}
